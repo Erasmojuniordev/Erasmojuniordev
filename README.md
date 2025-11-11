@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Erasmo Junior
 
-<!--
-**Erasmojuniordev/Erasmojuniordev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor full stack em constante evolução, com foco em construir sistemas de gerenciamento estáveis, escaláveis e estruturados. Busco unir clareza técnica com entendimento de negócio para desenvolver soluções que realmente fazem sentido no uso diário.
 
-Here are some ideas to get you started:
+### 🔧 Tecnologias que utilizo no dia a dia
+- **Back-end:** .NET • Entity Framework • SQL Server  
+- **Front-end:** React • Tailwind • Integração com APIs  
+- **Práticas:** arquitetura limpa, organização de código e modelagem de dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 O que estou aperfeiçoando atualmente
+Desenvolvimento e refinamento de sistemas em diferentes contextos, explorando padrões de arquitetura, boas práticas e experiência do usuário.
+
+### 📫 Onde me encontrar
+[LinkedIn](www.linkedin.com/in/erasmojunior2604)
+
