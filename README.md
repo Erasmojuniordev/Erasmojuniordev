@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Erasmo Junior
 
-Desenvolvedor full stack em constante evolução, com foco em construir sistemas de gerenciamento estáveis, escaláveis e estruturados. Busco unir clareza técnica com entendimento de negócio para desenvolver soluções que realmente fazem sentido no uso diário.
+Desenvolvedor full stack em constante evolução, com foco em construir sistemas estáveis, escaláveis e estruturados. Busco unir clareza técnica com entendimento de negócio para desenvolver soluções que realmente fazem sentido no uso diário.
 
 ### 🔧 Tecnologias que utilizo no dia a dia
 - **Back-end:** .NET • Entity Framework • SQL Server  
